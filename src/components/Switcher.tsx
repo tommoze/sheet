@@ -1,6 +1,6 @@
 import { useWindowSize } from 'react-use'
 import DesktopSheet from './DesktopSheet'
-import MobileSheet from './DesktopSheet copy'
+import MobileSheet from './MobileSheet'
 
 const MOBILE_WIDTH = 600
 
