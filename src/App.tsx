@@ -1,8 +1,8 @@
 import './index.css'
-import DesktopSheet from './components/DesktopSheet'
+import Swither from './components/Switcher'
 
 function App() {
-    return <DesktopSheet />
+    return <Swither />
 }
 
 export default App
