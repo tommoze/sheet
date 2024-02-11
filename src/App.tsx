@@ -1,7 +1,8 @@
-import "./index.css";
+import './index.css'
+import DesktopSheet from './components/DesktopSheet'
 
 function App() {
-  return <h1 className="text-3xl font-bold underline">Hello world!</h1>;
+    return <DesktopSheet />
 }
 
-export default App;
+export default App
